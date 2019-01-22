@@ -1,0 +1,2 @@
+﻿References:
+https://www.oracle.com/webfolder/technetwork/tutorials/obe/db/dotnet/ODPNET_Core_get_started/index.html
